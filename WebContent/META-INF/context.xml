@@ -14,7 +14,10 @@
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License.
---><!-- The contents of this file will be loaded for each web application --><Context>
+--><!-- The contents of this file will be loaded for each web application -->
+
+	<Context workDir="F:\TheJoeun\JSPServlet\workspace\chap14-jsp-lecture-source\WebContent\WEB-INF\translate">
+    <!-- 싱행 시 translate 폴더 내에 jsp에서 자바 코드를 작성하여 파일을 생성해준다. -->
 
     <!-- Default set of monitored resources. If one of these changes, the    -->
     <!-- web application will be reloaded.                                   -->
